@@ -7,3 +7,7 @@ uvicorn index:app --reload
 
 
 # Raspberry pi 4 B
+source venv/bin/activate   
+uvicorn index:app --reload  
+muselsl stream
+
